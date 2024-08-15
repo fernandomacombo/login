@@ -38,6 +38,7 @@
      }
      section#login{
           width: 950px;
+          
      }
 
      section#login > div#imagem{
@@ -50,6 +51,7 @@
      section#login > div#formulario{
           float: right;
           width: 50%;
+          transform: translatey(25%);
      }
 
      div#formulario h{
